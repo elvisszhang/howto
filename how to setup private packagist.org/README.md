@@ -153,7 +153,9 @@ When developers updated their code to git repository, we need to rebuild statis 
 It's a good idea if developers can build satis through browser without having to log into shell.
 Below is the php code, make sure git log info is remembered before executing this script through browser.
 
+update_cn.php translates English messages to Chinese language, it's suitable to Chinese developers.
 ```
+//update_en.php
 <html>
 <head></head>
 <body>
